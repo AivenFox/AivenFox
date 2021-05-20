@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AivenFox
+- 👀 I’m interested in programming, games and machine learning.
+- 🌱 I’m currently learning Python, TF, OpenGL.
+- 📫 How to reach me: AivenFox@gmail.com and Telegram: @AivenFox 
